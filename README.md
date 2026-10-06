@@ -10,7 +10,7 @@
 - [x] Belajar branching
 - [ ] Belajar collaboration
 
-### TECH STACK
+## TECH STACK
 | Technology | Usage |
 |---|---|
 | React | Frontend |
