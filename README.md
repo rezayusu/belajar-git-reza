@@ -5,13 +5,12 @@
 - Alamat: Jl. Tutwuri Handayani ll No. 36A 
 - Cita-cita: Nikah
 
-## Progress
+## PROGRESS
 - [x] Belajar Git dasar
 - [x] Belajar branching
 - [ ] Belajar collaboration
 
-### Tech Stack
-
+### TECH STACK
 | Technology | Usage |
 |---|---|
 | React | Frontend |
