@@ -9,3 +9,11 @@
 - [x] Belajar Git dasar
 - [x] Belajar branching
 - [ ] Belajar collaboration
+
+### Tech Stack
+
+| Technology | Usage |
+|---|---|
+| React | Frontend |
+| Node.js | Backend |
+| PostgreSQL | Database |
