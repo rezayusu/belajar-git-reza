@@ -7,5 +7,5 @@
 
 ## Progress
 - [x] Belajar Git dasar
-- [ ] Belajar branching
+- [x] Belajar branching
 - [ ] Belajar collaboration
