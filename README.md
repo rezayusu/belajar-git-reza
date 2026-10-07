@@ -4,6 +4,7 @@
 - Kelas: XII RPL 2
 - Alamat: Jl. Tutwuri Handayani ll No. 36A 
 - Cita-cita: Nikah
+- Status: Pripat
 
 ## PROGRESS
 - [x] Belajar Git dasar
@@ -14,5 +15,5 @@
 | Technology | Usage |
 |---|---|
 | React | Frontend |
-| Node.js | Backend |
+| Spring Boot | Backend |
 | PostgreSQL | Database |
